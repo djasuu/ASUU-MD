@@ -1,9 +1,9 @@
 {
   "name":"ASUU-MD",
-  "description":"Best whatsapp bot developed by mr anyway ",
+  "description":"Best whatsapp bot developed by mr asuu",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.imgur.com/G5u9emw.jpeg",
-  "repository":"https://github.com/anywaytech2/ANYWAY-MD-V1",
+  "repository":"https://github.com/Athuman/ASUU-MD-V1",
   "succes_url":"/",
   "stack":"container",
   "env":{
