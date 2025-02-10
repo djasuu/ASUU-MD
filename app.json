@@ -41,7 +41,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"-ANYWAY-MD",
+      "value":"-ASUU-MD",
       "required":false
 
     } ,
@@ -80,7 +80,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr Anyway"
+    "value": "ATHUMANI"
   },
     "NUMERO_OWNER":
   {
