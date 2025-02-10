@@ -44,7 +44,7 @@ const date = moment().format('DD/MM/YYYY');
 ╰──────────────────❂ \n\n`;
  
     let menuMsg=`  
-  **ANYWAY MD COMMANDS*
+  **MR ANYWAY MD COMMANDS*
 `;
 
     for (const cat in coms) {
