@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *anyway-MD-WABOT*`
+ *asuu-MD-WABOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
