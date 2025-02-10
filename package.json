@@ -1,22 +1,22 @@
 {
-  "name": "Bmw-md",
+  "name": "anyway-md",
   "version": "2.0.0",
   "description": "",
   "main": "ibrahim.js", 
   "scripts": {
-    "test": "node ibrahim.js",
+    "test": "node mr anyway.js",
     "s": "node ibrahim.js",
-    "toshtech": "pm2 start ibrahim.js --attach",
-    "toshtech": "pm2 start ibrahim.js --attach",
+    "toshtech": "pm2 start anyway.js --attach",
+    "toshtech": "pm2 start anyway.js --attach",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Bmw-md",
+    "Anyway-md",
     "whatsapp",
     "whatsapp-bot",
-    "bmw-md-boy"
+    "anyway-md-boy"
   ],
   "author": "Tosh205",
 "license": "ISC",
