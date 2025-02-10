@@ -50,7 +50,7 @@ const date = moment().format('DD/MM/YYYY');
   `;
     
 let menuMsg = `
-     *Anyway Tech*
+     *anyway Tech*
 
 ❒────────────────────❒`;
 
