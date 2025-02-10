@@ -1,5 +1,5 @@
 {
-  "name":"ASUU-MD",
+  "name":"anyway-MD",
   "description":"Best whatsapp bot developed by mr anyway ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.imgur.com/G5u9emw.jpeg",
@@ -41,7 +41,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"-ASUU-MD",
+      "value":"-anyway-MD",
       "required":false
 
     } ,
@@ -80,7 +80,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "ATHUMANI"
+    "value": "mr anyway"
   },
     "NUMERO_OWNER":
   {
