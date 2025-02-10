@@ -1,13 +1,13 @@
 {
-  "name": "anyway-md",
+  "name": "asuu-md",
   "version": "2.0.0",
   "description": "",
   "main": "ibrahim.js", 
   "scripts": {
-    "test": "node mr anyway.js",
+    "test": "node mr asuu.js",
     "s": "node ibrahim.js",
-    "toshtech": "pm2 start anyway.js --attach",
-    "toshtech": "pm2 start anyway.js --attach",
+    "toshtech": "pm2 start asuu.js --attach",
+    "toshtech": "pm2 start asuu.js --attach",
     "c": "tsc"
   },
   "keywords": [
