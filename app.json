@@ -2,7 +2,7 @@
   "name":"ASUU-MD-V1",
   "description":"Best whatsapp bot developed by mr anyway ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.imgur.com/G5u9emw.jpeg",
+  "logo":"https://files.catbox.moe/cq31r2.png",
   "repository":"https://github.com/djasuu/ASUU-MD",
   "succes_url":"/",
   "stack":"container",
@@ -48,7 +48,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.imgur.com/G5u9emw.jpeg",
+      "value":"https://files.catbox.moe/cq31r2.png",
       "required":false
        
      },
