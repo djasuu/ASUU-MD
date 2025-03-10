@@ -1,9 +1,9 @@
 {
-  "name":"ANYWAY-MD-V1",
+  "name":"ASUU-MD-V1",
   "description":"Best whatsapp bot developed by mr anyway ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.imgur.com/G5u9emw.jpeg",
-  "repository":"https://github.com/anywaytech2/ANYWAY-MD-V1",
+  "repository":"https://github.com/djasuu/ASUU-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -41,7 +41,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"-ANYWAY-MD",
+      "value":"-ASUU-MD",
       "required":false
 
     } ,
@@ -80,7 +80,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr Anyway"
+    "value": "Mr asuu"
   },
     "NUMERO_OWNER":
   {
