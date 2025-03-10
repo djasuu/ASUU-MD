@@ -37,20 +37,20 @@ const date = moment().format('DD/MM/YYYY');
    *TOSH MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/SIMON32883/MR-ANYWAY-MD
+> https://github.com/SIMON32883/MR-ASUU-MD
 
 *WHATSAPP GROUP*
 > https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *Mr anyway*
+│❒⁠⁠⁠⁠ *DEV1* : *Mr asuu*
 │❒⁠⁠⁠⁠ *DEV2* : *Baraka Bega*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Anyway Tech*
+     *Asuu Tech*
 
 ❒────────────────────❒`;
 
