@@ -26,7 +26,7 @@ module.exports = { session: process.env.SESSION_ID || '',
                   ANTIDELETE2 : process.env.ANTIDELETE2 || "yes",
                   ANTIDELETE1 : process.env.ANTIDELETE1 || "yes",
     ADM : process.env.ANTI_DELETE_MESSAGE || 'no',
-    ANYWAY_MD : process.env.AUTO_LIKE_STATUS || 'yes',
+    ASUU_MD : process.env.AUTO_LIKE_STATUS || 'yes',
     DATABASE_URL,
     DATABASE: DATABASE_URL === databasePath
         ? "postgresql://postgres:bKlIqoOUWFIHOAhKxRWQtGfKfhGKgmRX@viaduct.proxy.rlwy.net:47738/railway" : "postgresql://postgres:bKlIqoOUWFIHOAhKxRWQtGfKfhGKgmRX@viaduct.proxy.rlwy.net:47738/railway",
