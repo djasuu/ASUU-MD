@@ -17,7 +17,7 @@
 
 [`FORK`](https://github.com/djasuu/ASUU-MD/fork)
 
-[`PAIRING CODE`](https://anyway-session-2.onrender.com)
+[`PAIRING CODE`](https://asuu-md-pairing-code.onrender.com)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
