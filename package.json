@@ -3,12 +3,12 @@
   "name": "babyboy",
   "version": "2.0.0",
   "description": "",
-  "main": "control.js",
+  "main": "ibrahim.js",
   "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node control.js", 
-    "ezra": "pm2 start control.js --attach --max-memory-restart 490M",
+    "s": "node ibrahim.js", 
+    "ezra": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
     "fredi": "pm2 start fredi.js --attach",
     "c": "tsc"
     },
