@@ -1,25 +1,32 @@
-
 FROM node:lts-buster
 
+# Install dependencies
 RUN apt-get update && \
   apt-get install -y \
   ffmpeg \
   imagemagick \
   webp && \
   apt-get upgrade -y && \
-  npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
-  
-RUN git clone https://github.com/Fred1e/LUCKY_MD /root/lucky_bot
-WORKDIR /root/lucky_Bot/
 
+# Install PM2 globally
+RUN npm install -g pm2 
 
-COPY package.json .
-RUN npm install pm2 -g
-RUN npm install --legacy-peer-deps
+# Clone the repository
+RUN git clone https://github.com/Fred1e/LUCKY_MD /root/Lucky_bo
 
+# Set working directory
+WORKDIR /root/Lucky_bot
+
+# Copy package.json and install dependencies
+COPY package.json package-lock.json* ./
+RUN npm install --legacy-peer-deps && npm cache clean --force
+
+# Copy the rest of the files
 COPY . .
 
+# Expose port
 EXPOSE 5000
 
-CMD ["npm", "run" , "lucky"]
+# Start the application
+CMD ["node", "ibrahim.js"]
